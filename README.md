@@ -1,5 +1,5 @@
 # Deploying-a-Sentiment-Analysis-Model-in-Sagemaker
-Code fot the first project of the Udacity Machine Learning Engineer Nanodegree.
+*Code fot the first project of the Udacity Machine Learning Engineer Nanodegree.*
 
 ## Project Overview
 The goal of this project is to build and deploy a Sentiment Analysis model using Amazon's SageMaker platform in order
