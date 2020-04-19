@@ -6,6 +6,8 @@ The goal of this project is to build and deploy a Sentiment Analysis model using
 to determine the sentiment of a movie review. The model is a recurrent neural network using LSTM gates that was trained
 on the IMDB data set.
 
+The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+
 ## Software and Libraries
 
 This project uses the following software and Python libraries:
